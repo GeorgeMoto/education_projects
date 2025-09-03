@@ -1,0 +1,13 @@
+         365331 function calls (365267 primitive calls) in 3.031 seconds
+
+   Ordered by: cumulative time
+   List reduced from 519 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    3.031    3.031 financial_enhanced.py:10(get_financial_data)
+      904    0.002    0.000    1.841    0.002 socket.py:693(readinto)
+      904    0.002    0.000    1.837    0.002 ssl.py:1237(recv_into)
+      904    0.001    0.000    1.835    0.002 ssl.py:1095(read)
+      904    1.834    0.002    1.834    0.002 {method 'read' of '_ssl._SSLSocket' objects}
+
+
