@@ -1,0 +1,10 @@
+ivan.petrov@corp.com
+emma.geller@corp.com
+john.smith@corp.com
+anna.ivanova@corp.com
+sergey.sidorov@corp.com
+maria.kuznetsova@corp.com
+pavel.kozlov@corp.com
+olga.sokolova@corp.com
+dmitry.volkov@corp.com
+ekaterina.morozova@corp.com
